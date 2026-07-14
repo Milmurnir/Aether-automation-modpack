@@ -1,0 +1,13 @@
+name = "morediscs-1.20.1-forge-35"
+filename = "morediscs-1.20.1-forge-35.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pXYChc1a/versions/1zTkS8Pw/morediscs-1.20.1-forge-35.jar"
+hash-format = "sha512"
+hash = "b9e964d645fe7f60d0a3c7237d3d692d5e6bc9e59cb9237ed6e4f1cfbcee7c94ad6df2257b7e4ef022131e9125634c01f782df9e21f92517717300237584f045"
+
+[update]
+[update.modrinth]
+mod-id = "pXYChc1a"
+version = "1zTkS8Pw"

@@ -1,0 +1,13 @@
+name = "extendedae_plus-1.5.5"
+filename = "extendedae_plus-1.5.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xr109llC/versions/pN9pMjiW/extendedae_plus-1.5.5.jar"
+hash-format = "sha512"
+hash = "abb444fe5282eb0e05e44211a3e0e9db19439d55a78f925d004c7297714fa090d2b6672cd237fb607a026f43ce5f060987f84ebfa4c885c52f2e9d9771bdb026"
+
+[update]
+[update.modrinth]
+mod-id = "xr109llC"
+version = "pN9pMjiW"

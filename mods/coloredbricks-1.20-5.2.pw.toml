@@ -1,0 +1,13 @@
+name = "coloredbricks-1.20-5.2"
+filename = "coloredbricks-1.20-5.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/j6V2Z1dQ/versions/1iOyr2JS/coloredbricks-1.20-5.2.jar"
+hash-format = "sha512"
+hash = "dd6a40c283c59454423cf8e6aac1f779610b58fa895cd5a32e3c14a4b04f612c76b798df6ab1ef109b2947300acdde440069758566a23ec577430c0cce4ccee1"
+
+[update]
+[update.modrinth]
+mod-id = "j6V2Z1dQ"
+version = "1iOyr2JS"

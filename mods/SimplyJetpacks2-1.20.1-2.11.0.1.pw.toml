@@ -1,0 +1,13 @@
+name = "SimplyJetpacks2-1.20.1-2.11.0.1"
+filename = "SimplyJetpacks2-1.20.1-2.11.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ny77zKza/versions/HD6Ykq4K/SimplyJetpacks2-1.20.1-2.11.0.1.jar"
+hash-format = "sha512"
+hash = "a17f834ff32b3767d6e587b692360d2bb5e8f96c0394e5cd1a909a59fbd57d532f9dbc9db74b01e2b1e40d626643a646bc8fcf8121047f42b62f87c2cdca863a"
+
+[update]
+[update.modrinth]
+mod-id = "ny77zKza"
+version = "HD6Ykq4K"

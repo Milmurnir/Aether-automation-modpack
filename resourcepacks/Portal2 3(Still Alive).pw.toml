@@ -1,0 +1,13 @@
+name = "Portal2 3(Still Alive)"
+filename = "Portal2 3(Still Alive).zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/p8xciRPJ/versions/DNTrg7iF/Portal2%203%28Still%20Alive%29.zip"
+hash-format = "sha512"
+hash = "0136fc8af6b57d087cadde814f46629b2866555907def3889fb42e0a7e0e8b395f8f7de1c8b103d8d52ef3fbe53924f0a44b46b942b6206eddf6e3affc9bd401"
+
+[update]
+[update.modrinth]
+mod-id = "p8xciRPJ"
+version = "DNTrg7iF"
