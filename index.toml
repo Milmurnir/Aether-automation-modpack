@@ -129,6 +129,10 @@ file = "config/openloader/data/aetherautomation/data/aetherautomation/recipes/bo
 hash = "9319f770f61160c8ee4a15d023b80dd1a56bd3eb93e6eb721d0e63f77b948290"
 
 [[files]]
+file = "config/openloader/data/aetherautomation/data/expatternprovider/recipes/silicon_block.json"
+hash = "2af05b92b47227d22938d086acc97ec692767869bd109707aa4bef50ee7ab707"
+
+[[files]]
 file = "config/openloader/data/aetherautomation/data/immersiveengineering/loot_tables/blocks/deepslate_ore_lead.json"
 hash = "f0115911c07cd2a6886826426c0b996569781014fb6218b8855f9bad1dd0f946"
 

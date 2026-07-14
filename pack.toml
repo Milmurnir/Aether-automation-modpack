@@ -1,12 +1,12 @@
 name = "Aether Automation"
 author = "Nicklas"
-version = "1.10.24"
+version = "1.10.25"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d3ebb336e51ff2017d34d123ec5488691a6b7683f906462a9b9ec75e040a02f6"
+hash = "a576a6f6a7bab3299a8b5cdb934bf78f650e43605d1c2d0b1c1ffa7bffa4ecf9"
 
 [versions]
 minecraft = "1.20.1"
