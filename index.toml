@@ -1,122 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/betterquesting/data/chapters/chapter_7680.xbt"
-hash = "0d0639a86178b0bedc92c1a29828136100f25a95b87a0d1a02bc169395d2804e"
-
-[[files]]
-file = "config/betterquesting/data/chapters/chapter_7936.xbt"
-hash = "0492340f7ed28fd87ce6f246a2843d177bea585d7bcf7f50493f19569677786f"
-
-[[files]]
-file = "config/betterquesting/data/chapters/chapter_8192.xbt"
-hash = "96e3f6404c425b52dcb9a8e83914f39b57a18f828b26b2854d1c7921d3b30025"
-
-[[files]]
-file = "config/betterquesting/data/chapters/chapter_8448.xbt"
-hash = "9f44b6cc655b28e8ccae21df8f2a3378fa8799ee39e0ba23189eb25e0e5bcec0"
-
-[[files]]
-file = "config/betterquesting/data/chapters/chapter_8704.xbt"
-hash = "a122c1944f1db92ac665a33150bf3237948b710d98c7be6b1470845a705c61d4"
-
-[[files]]
-file = "config/betterquesting/data/chapters/chapter_8960.xbt"
-hash = "1ad1f6292538ffeb5c499352de5330c4ecd32ab787915bb6f6363ee2f4cd4439"
-
-[[files]]
-file = "config/betterquesting/data/chapters/chapter_9216.xbt"
-hash = "cca78f2264a363be6e2a568d750450214fef82c6405a8ebf1fc317022b3e892a"
-
-[[files]]
-file = "config/betterquesting/data/chapters/chapter_9472.xbt"
-hash = "3fcacb8a00710a15763ccd836ee816e8569a49e0f95725023a8d2d3966d0c979"
-
-[[files]]
-file = "config/betterquesting/data/chapters/chapter_9728.xbt"
-hash = "8d61e0747d0a62896badeac9527c3881008e672faf18eab8ac45fed3f8dafce8"
-
-[[files]]
-file = "config/betterquesting/data/quests/quest_1024.xbt"
-hash = "ac77752eafc1cfda3a15eebc25a1d4d897cd24530d81438bbe63fae1b9fe1207"
-
-[[files]]
-file = "config/betterquesting/data/quests/quest_1280.xbt"
-hash = "c0577b052d408db550a32fbbe8e7c7c3e25891727920d6f958a47ff31fbab698"
-
-[[files]]
-file = "config/betterquesting/data/quests/quest_1536.xbt"
-hash = "2142d7b6510fa70eddcece47b3d4a11912b082949c99df39b632f1971e7c1168"
-
-[[files]]
-file = "config/betterquesting/data/quests/quest_1792.xbt"
-hash = "c4287c80274cc98d8297273df4cb9053ba0d6fb8aaec0bcdf223e6d28563bd07"
-
-[[files]]
-file = "config/betterquesting/data/quests/quest_2048.xbt"
-hash = "8df3a1ade08f1e02e7291d11ed76d2c55cd84b4f42ce3373924b393a139b3a3b"
-
-[[files]]
-file = "config/betterquesting/data/quests/quest_2304.xbt"
-hash = "e1c70b52983eebff8916943e7cb7f705882a01e614919af69cb4f9ded1fecaf9"
-
-[[files]]
-file = "config/betterquesting/data/quests/quest_2560.xbt"
-hash = "93795b605fe762292d63b7c9dafa152d4e6dea6d6b9ebff6357d8ca57868cdb1"
-
-[[files]]
-file = "config/betterquesting/data/quests/quest_2816.xbt"
-hash = "c941f431efc4182780ff34d9fab37a038098dd7565eaff665e51639219d71de7"
-
-[[files]]
-file = "config/betterquesting/data/quests/quest_3072.xbt"
-hash = "c1018b35e3dad5ce67627160c2bd8efceeacd5652c3db2ed5061e41fb6914996"
-
-[[files]]
-file = "config/betterquesting/data/quests/quest_3328.xbt"
-hash = "7829b880fc9c255de1beedd3018f124b535430bf6f8de853fad7350f4924ad0b"
-
-[[files]]
-file = "config/betterquesting/data/quests/quest_3584.xbt"
-hash = "7e3152569cccee1310e466baef1aa234ecfa8c6fb6a5ce6da00f16fdacc2d76d"
-
-[[files]]
-file = "config/betterquesting/data/quests/quest_3840.xbt"
-hash = "40bfd430237f6d43c8217566032c844ddf45aeae6be1bc6b9664b5a5491cd406"
-
-[[files]]
-file = "config/betterquesting/data/quests/quest_4096.xbt"
-hash = "63a47ab844ae2eb11042b8ffeef8ccaec406b23e6eb02ff9f5f456d9750a61d9"
-
-[[files]]
-file = "config/betterquesting/data/quests/quest_4352.xbt"
-hash = "29e09997fa51d730ea49c0ec46bf9d8209604e72794b936fad36559ce265e946"
-
-[[files]]
-file = "config/betterquesting/data/quests/quest_4608.xbt"
-hash = "ad564d97ca5d924e0b42bab23b0e6de3bb04f4f819856ef19077b32256fda0e1"
-
-[[files]]
-file = "config/betterquesting/data/quests/quest_4864.xbt"
-hash = "02000b1a929c95ee38ee930c8ac1cb0d3c633f4e03d3726049168833f776f8a4"
-
-[[files]]
-file = "config/betterquesting/data/quests/quest_512.xbt"
-hash = "8209421732c0642f730563ece9095315cef95cee8aaa595b51614f528bc7a6c9"
-
-[[files]]
-file = "config/betterquesting/data/quests/quest_5120.xbt"
-hash = "883a73ecec312ddaf43e259734777d008ca459a3ff749be5b0cdde69899f7354"
-
-[[files]]
-file = "config/betterquesting/data/quests/quest_5376.xbt"
-hash = "eae921df21564f10a0910b110c2ba104b2ae6ad439b479118d89fdca14aefee7"
-
-[[files]]
-file = "config/betterquesting/data/quests/quest_768.xbt"
-hash = "8a4bfe2bbc195ec85c793af297e0f2e104d5fcaf66e0bd3f56b7982aecee93b0"
-
-[[files]]
 file = "config/immersiveengineering-client.toml"
 hash = "1d8c8798d3cb7f63bb0ca98c523ba2fd67e76639d3b514ee10d05f5e582ee541"
 
@@ -190,10 +74,6 @@ metafile = true
 file = "mods/architectury-9.2.14-forge.pw.toml"
 hash = "9f153cd9787d81e7a6ea52abb796ff225871c32d79f46c556669173bfcf0b2bb"
 metafile = true
-
-[[files]]
-file = "mods/BetterQuesting-Forge-1.20.1-4.0.71.jar"
-hash = "5421d11efb31013f99f5ef7b1d9bfe3f29eceb0f526f1c1a3208f8ab2159e1d2"
 
 [[files]]
 file = "mods/chisel-forge-2.0.0+mc1.20.1.pw.toml"
@@ -443,10 +323,6 @@ metafile = true
 file = "mods/sophisticatedcore-1.20.1-1.3.58.2078.pw.toml"
 hash = "95b6470b6acb21337178f6c784ab47062aecfc72e69f1cb29f8115edebecd68d"
 metafile = true
-
-[[files]]
-file = "mods/StandardExpansion-Forge-1.20.1-4.0.36.jar"
-hash = "184e6d65255e1668243859705d42e4e8e90ce8cca444ce2145f09f149de2e960"
 
 [[files]]
 file = "mods/supermartijn642configlib-1.1.8-forge-mc1.20.pw.toml"
