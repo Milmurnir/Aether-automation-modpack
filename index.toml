@@ -310,6 +310,11 @@ hash = "1704ada66c2e03ed2b5774342d4e0b417936ff561033c687ffb2c3979d7b334c"
 metafile = true
 
 [[files]]
+file = "mods/rftoolspower-1.20-6.0.3.pw.toml"
+hash = "b7a871d275b4d6180562e1580208a88b5b9ab91b5edeaba4ca8034bc702c9e39"
+metafile = true
+
+[[files]]
 file = "mods/SimplyJetpacks2-1.20.1-2.11.0.1.pw.toml"
 hash = "0dca2edd4ba45bcaacfd691ea38188616fadad6de0fa734bef5c7ecbc4534917"
 metafile = true
