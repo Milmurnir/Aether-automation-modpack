@@ -201,6 +201,16 @@ hash = "be8aedfb0268c8dbed1b73a26b70672d7e4862f622f30d4031f4f8ca86aaf76b"
 metafile = true
 
 [[files]]
+file = "mods/chunkloaders-1.2.8a-forge-mc1.20.1.pw.toml"
+hash = "5ad5535ab8c037819a8d8eaa521548d8a2077f940ad4725a3429c63b8a464dd2"
+metafile = true
+
+[[files]]
+file = "mods/CodeChickenLib-1.20.1-4.4.0.516-universal.pw.toml"
+hash = "1eab7acfdd4a29cf4a62688f491dfdd88352fa3abfb9f9ecf33bcc44794b688e"
+metafile = true
+
+[[files]]
 file = "mods/cofh_core-1.20.1-11.0.2.56.pw.toml"
 hash = "cd07fd7d75d4771caca29f449387056fc73089482a1b77688e3c41e79cc7576d"
 metafile = true
@@ -247,6 +257,11 @@ metafile = true
 [[files]]
 file = "mods/EnderIO-1.20.1-6.2.18-beta-all.pw.toml"
 hash = "86b6bacb8c876305e227379763693d0e8c40736c1e7f462a41d5cd947ab3bef4"
+metafile = true
+
+[[files]]
+file = "mods/EnderStorage-1.20.1-2.11.0.188-universal.pw.toml"
+hash = "1f994d851ba62dd24bb3fb6aff2a5eb35f3d02900b7456666e4651744de48736"
 metafile = true
 
 [[files]]
@@ -432,6 +447,16 @@ metafile = true
 [[files]]
 file = "mods/StandardExpansion-Forge-1.20.1-4.0.36.jar"
 hash = "184e6d65255e1668243859705d42e4e8e90ce8cca444ce2145f09f149de2e960"
+
+[[files]]
+file = "mods/supermartijn642configlib-1.1.8-forge-mc1.20.pw.toml"
+hash = "640a08477f1718a872cf73b550b000828a29d799f172edca0cbfb59824f1f559"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642corelib-1.1.21-forge-mc1.20.1.pw.toml"
+hash = "afb1d62e5184463cf59b99fac8ec31368208555b4dae18b3f825dbc2482b7b9f"
+metafile = true
 
 [[files]]
 file = "mods/TConstruct-1.20.1-3.11.2.166.pw.toml"
