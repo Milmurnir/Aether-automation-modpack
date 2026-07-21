@@ -393,3 +393,19 @@ metafile = true
 file = "resourcepacks/Portal2 3(Still Alive).pw.toml"
 hash = "57677f255d0f5d4dd9ebeea955a550439bdeccbaa7e2fa0119707169abb807c2"
 metafile = true
+
+[[files]]
+file = "config/openloader/data/aetherautomation/data/aetherautomation/functions/day_cycle_init.mcfunction"
+hash = "9eda53dc520ddc4140773e11c92e84082cbd7426995adb97d4a1c7ffcc9ad96b"
+
+[[files]]
+file = "config/openloader/data/aetherautomation/data/aetherautomation/functions/day_cycle_tick.mcfunction"
+hash = "e7273536c8129d389d9bbd7c0ab8ce20a406b5f7d950ae2058699b211c8018a3"
+
+[[files]]
+file = "config/openloader/data/aetherautomation/data/minecraft/tags/functions/load.json"
+hash = "8bda5d1a158ea927a22dd4dc637d79912540a6d1e557d4cc9fcd52ff42859479"
+
+[[files]]
+file = "config/openloader/data/aetherautomation/data/minecraft/tags/functions/tick.json"
+hash = "e3f5ef517127e111fcf501646f626285be35f044c9bcd90d72c275d423c73f4f"
