@@ -63,6 +63,11 @@ hash = "7293fa791f9f19cb419455431c7b442af6c36a713dce19d00ab047266aa4c1e5"
 metafile = true
 
 [[files]]
+file = "mods/Clumps-forge-1.20.1-12.0.0.4.pw.toml"
+hash = "3e0853a2ba790d6b8b842ff1d051780ae3ddbbb1e082431c221fc077d9b614a6"
+metafile = true
+
+[[files]]
 file = "mods/CodeChickenLib-1.20.1-4.4.0.528-universal.pw.toml"
 hash = "35e48fec14dfc436a17c3f9308497493047cd297060546f0e64c65fd683050d9"
 metafile = true
@@ -103,6 +108,16 @@ hash = "f38593c424621ea6709cd14cfe14e8c93717e3009dfd2ebbb9a38e89dcf798f6"
 metafile = true
 
 [[files]]
+file = "mods/FastFurnace-1.20.1-8.0.2.pw.toml"
+hash = "e08750ba60e8b70645ef6a4b5985773f933593147c2c7e27c65c87bb88c1bd56"
+metafile = true
+
+[[files]]
+file = "mods/FastWorkbench-1.20.1-8.0.4.pw.toml"
+hash = "0755e7e21f2412a2511e66536aca82afd9f6f2a240bd31bb8352a9331cdcc54f"
+metafile = true
+
+[[files]]
 file = "mods/Forgematica-0.1.13-mc1.20.1.pw.toml"
 hash = "7221ee0f76cb4d91ecf0cec051888b74a72ef9616cb635b52e0a2bb59c06b30f"
 metafile = true
@@ -120,6 +135,11 @@ metafile = true
 [[files]]
 file = "mods/Jade-1.20.1-Forge-11.13.3.pw.toml"
 hash = "a36ad65162187c26bdb44b6c3365f391d40a467567a35459c3a17edc935c1ce2"
+metafile = true
+
+[[files]]
+file = "mods/Ksyxis-1.4.3.pw.toml"
+hash = "37a048ef12fb13b9d8effdc091c4371962181601da6f4e2daab1e11ee2dabf0a"
 metafile = true
 
 [[files]]
@@ -155,6 +175,11 @@ metafile = true
 [[files]]
 file = "mods/Patchouli-1.20.1-85-FORGE.pw.toml"
 hash = "ca343e7771c2953593edb530a008c587446f87a17c0eddd4b59c3facc56f8e45"
+metafile = true
+
+[[files]]
+file = "mods/Placebo-1.20.1-8.6.3.pw.toml"
+hash = "309ab66c0e975eeee3394443561f99c8f0f9b64d141957e0e62c1d0d700b60f5"
 metafile = true
 
 [[files]]
@@ -213,6 +238,11 @@ hash = "20455c2e2d030c944db7516c1ea32bbdf5a6e0ee0bf5c2e8aeb3865181a7eece"
 metafile = true
 
 [[files]]
+file = "mods/canary-mc1.20.1-0.3.3.pw.toml"
+hash = "fb619cbf77c667e7820dc652db8867a5061913dc5519df9d7497cd3bcaea679e"
+metafile = true
+
+[[files]]
 file = "mods/chisel-forge-2.0.0+mc1.20.1.pw.toml"
 hash = "ee030617debf1f9c1c09bf7f7bb27f1adca5388ea3f4796cd367d35cb0fea9c4"
 metafile = true
@@ -254,6 +284,11 @@ metafile = true
 [[files]]
 file = "mods/embeddium-0.3.31+mc1.20.1.pw.toml"
 hash = "f208a651b451bed8ddc309b5751f4200daa6c1ea3122248edfccc8c63ac4971b"
+metafile = true
+
+[[files]]
+file = "mods/entityculling-forge-1.10.5-mc1.20.1.pw.toml"
+hash = "c4efb05d3908377eb5585cd2d826d53a4a0c0f89a73b40e03e6893ab853b3b39"
 metafile = true
 
 [[files]]
