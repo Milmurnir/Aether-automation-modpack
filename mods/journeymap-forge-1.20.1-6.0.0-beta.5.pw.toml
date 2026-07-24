@@ -1,0 +1,13 @@
+name = "journeymap-forge-1.20.1-6.0.0-beta.5"
+filename = "journeymap-forge-1.20.1-6.0.0-beta.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lfHFW1mp/versions/ns4prGUX/journeymap-forge-1.20.1-6.0.0-beta.5.jar"
+hash-format = "sha512"
+hash = "49d33c26506bda11db38df6882fef97876bb0663a0e7e3389b2c5398613d9c3c238971ba4e794b83af4f365e17e2b5df3d91b01896963731bca07898a790691a"
+
+[update]
+[update.modrinth]
+mod-id = "lfHFW1mp"
+version = "ns4prGUX"

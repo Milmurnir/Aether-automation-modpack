@@ -1,0 +1,13 @@
+name = "starcatcher-2.3.18-FORGE-1.20.1"
+filename = "starcatcher-2.3.18-FORGE-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/h2jXvxNR/versions/DmPkkJ49/starcatcher-2.3.18-FORGE-1.20.1.jar"
+hash-format = "sha512"
+hash = "d09100bf6e854298311fceff2ec157fdb298530deec443cbe810d7a9b908278ff73aa61c6f25ba701516baa0f6602b45263618f6eeabee7678eea43eb67f98a2"
+
+[update]
+[update.modrinth]
+mod-id = "h2jXvxNR"
+version = "DmPkkJ49"
